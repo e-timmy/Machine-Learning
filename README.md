@@ -4,7 +4,13 @@ Last Updated: 05/06/2024
 
 Slowly but surely my machine learning skills have faded. Here is my attempt at fighting off those fuzzies. Currently, I've only completed a couple of Kaggle competitions as a refresher. For some more advanced, and arguably more impressive moments in my "AI career", check out my university portfolio. There I was blessed with the daemon of skeleton codes and deadlines! \
 \
-I'm trying to think about how to expand this, but for the moment, it's Kaggle competitions...
+Within this repository, there is one non-Kaggle machine learning thing - my attempt at an auto-encoder of the MNIST dataset. I guess that's just a layman's Kaggle in a way. I'm trying to think about how to expand beyond Kaggle, but for the moment, I'll be like everyone else...
+
+### Curiosity
+
+- MNIST Autoencoder
+  - From initial murmurings on the variational auto-encoders used in generative AI. I was a tad confused.
+  - It does work though! I think there's another program on MNIST clothes too, if that's in fashion.
 
 ### Kaggle Competitions
 
