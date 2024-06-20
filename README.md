@@ -24,3 +24,8 @@ Within this repository, there is one non-Kaggle machine learning thing - my atte
   - Performance: 0.14719 on test dataset, 2545 out of 4916
   - Best model: a simple pipeline to impute values, with random forest.
   - I'm working on it!
+- Bag of Words Meets Bags of Popcorn
+  - Source: https://www.kaggle.com/competitions/word2vec-nlp-tutorial/overview
+  - Performance: 0.86472
+  - Best model: logistic regression with self-training on unlabelled data.
+  - Tried to incorporate transfer learning, but too computationally expensive.
