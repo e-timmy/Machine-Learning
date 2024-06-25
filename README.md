@@ -29,3 +29,8 @@ Within this repository, there is one non-Kaggle machine learning thing - my atte
   - Performance: 0.86472
   - Best model: logistic regression with self-training on unlabelled data.
   - Tried to incorporate transfer learning, but too computationally expensive.
+- Spaceship Titanic
+  - Source: https://www.kaggle.com/competitions/spaceship-titanic
+  - Performance: 0.80102, 775 out of 2242
+  - Best model: random forest with grid search.
+  - More data pre-processing required to increase performance.
