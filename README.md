@@ -33,4 +33,9 @@ Within this repository, there is one non-Kaggle machine learning thing - my atte
   - Source: https://www.kaggle.com/competitions/spaceship-titanic
   - Performance: 0.80102, 775 out of 2242
   - Best model: random forest with grid search.
-  - More data pre-processing required to increase performance.
+  - More data pre-processing is required to increase performance.
+- Digit Recognizer
+  - Source: https://www.kaggle.com/competitions/digit-recognizer/overview
+  - Performance: 0.99239, 313 out of 1967
+  - Best model: 4 x dataset through augmentations, CNN with residual connections, exponential decay optimiser.
+  - Actually pretty happy with this outcome!
