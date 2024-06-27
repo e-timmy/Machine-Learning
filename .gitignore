@@ -2,5 +2,9 @@
 Kaggle/.DS_store
 Kaggle/nlp-disaster-tweets/GoogleNews-vectors-negative300.bin
 Kaggle/nlp-disaster-tweets/GoogleNews-vectors-negative300.bin.zip
+Kaggle/nlp-disaster-tweets/cached_lm_GPT2Tokenizer_128_temp_dataset.txt
+Kaggle/nlp-disaster-tweets/cached_lm_GPT2Tokenizer_128_temp_dataset.txt.lock
+Kaggle/nlp-disaster-tweets/output
+Kaggle/nlp-disaster-tweets/temp_dataset.txt
 
 
